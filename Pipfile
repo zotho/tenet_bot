@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 pillow = "*"
 telethon = "*"
-moviepy = "*"
 
 [requires]
 python_version = "3.8"
